@@ -1,0 +1,15 @@
+C:\projects\c_sharp\FinalWork\finalwrk\bin\Debug\net6.0\finalwrk.exe
+C:\projects\c_sharp\FinalWork\finalwrk\bin\Debug\net6.0\finalwrk.deps.json
+C:\projects\c_sharp\FinalWork\finalwrk\bin\Debug\net6.0\finalwrk.runtimeconfig.json
+C:\projects\c_sharp\FinalWork\finalwrk\bin\Debug\net6.0\finalwrk.dll
+C:\projects\c_sharp\FinalWork\finalwrk\bin\Debug\net6.0\finalwrk.pdb
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.csproj.AssemblyReference.cache
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.AssemblyInfoInputs.cache
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.AssemblyInfo.cs
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.csproj.CoreCompileInputs.cache
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.dll
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\refint\finalwrk.dll
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.pdb
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\finalwrk.genruntimeconfig.cache
+C:\projects\c_sharp\FinalWork\finalwrk\obj\Debug\net6.0\ref\finalwrk.dll
