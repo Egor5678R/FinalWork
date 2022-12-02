@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\projects.csproj": {}
+    "C:\\projects\\c_sharp\\FinalWork\\finalwrk\\finalwrk.csproj": {}
   },
   "projects": {
-    "C:\\projects\\projects.csproj": {
+    "C:\\projects\\c_sharp\\FinalWork\\finalwrk\\finalwrk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\projects.csproj",
-        "projectName": "projects",
-        "projectPath": "C:\\projects\\projects.csproj",
+        "projectUniqueName": "C:\\projects\\c_sharp\\FinalWork\\finalwrk\\finalwrk.csproj",
+        "projectName": "finalwrk",
+        "projectPath": "C:\\projects\\c_sharp\\FinalWork\\finalwrk\\finalwrk.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\obj\\",
+        "outputPath": "C:\\projects\\c_sharp\\FinalWork\\finalwrk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
