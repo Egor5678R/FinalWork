@@ -1,7 +1,8 @@
-﻿int count = 0;
+﻿
 
 int countLess(string[] input, int n) 
 {
+    int count = 0;
     for(int i = 0; i < input.Length; i++) 
     {
         if(input[i].Length <= n) 
@@ -14,16 +15,16 @@ int countLess(string[] input, int n)
 
 string[] findLess(string[] input, int n) 
 {
-    string[] output = new string[countLess(input, n)];
+    string[] out = new string[countLess(input, n)];
     for(int i = 0, j = 0; i < input.Length; i++) 
     {
         if(input[i].Length <= n) 
         {
-            output[j] = input[i];
+            out[j] = input[i];
             j++;
         }
     }
-    return output;
+    return out;
 }
 
 string[] Array() 
